@@ -1,0 +1,47 @@
+1) What are some new things happening in the web?
+Ans.    => Blockchain Technology. Blockchain is an encrypted database storing system.
+        => Progressive Web Apps (PWA)
+        => Internet of Things (IoT)
+        => Accelerated Mobile Pages (AMP)
+        => Voice Search Optimization
+        => Motion UI
+        => Data Security
+        => Cybersecurity
+        => Virtual Reality
+        => Serverless Architecture
+        => Push Notifications
+
+2) Explain a project that you have built?
+Ans. After every 5 weeks unit, we are given a task to clone a website in a group. The very first thing i did is visit the given site and start working with my part of responsibility. During making the site We also had a daily-standup that if any team-member is facing issue, we can solve them togather. 
+     We faced many challenges in the path to build the project, also we got many issues when merging the code. But as a team we handled every issue make sure that the project will be completed on time.
+     The result came very fruitful that we were ready with the project, which is responsive, good looking website.
+
+3) Whats something exciting that you have built?
+Ans. The cloning of kickstarter.com is very exciting for me because during cloning website i learnt a lot which concepts was missing during class, i was able to cover them during cloning website.
+
+4) What are you most excited about?
+Ans. I am excited about the world of technology where everything is built upon codes that developer writes. when i purchage something from online sites that wonders me most that how a code can build such a wonderful application and that feeling make me excited about technology.
+
+5) Why do coding standards matter? What are some patterns you follow?
+Ans. Coding standards matter a lot when it comes to writing code, because using some simple standard makes your code easy to read, debug and also useful when it is actually used. It reduces risk of project failures.
+     => Some patterns I follow are: 
+            - Naming conventions for variable's, functions and classes. Should describe the reason of use,
+            - Limiting global variables's and making use of const and let accordingly,
+            - Indentation which increases readability of code,
+            - Avoid use of if-else instead use functions,
+            - functions should be small.
+
+6) How do you go about managing responsive websites?
+Ans.    => Focus On The Content.
+        => Get To Know The Media Query
+        => Keep A “Mobile First” Mentality
+        => Create A Flexible Foundation
+        => Don't Neglect The Navigation
+        => Make Website “Touch-Friendly”
+        => Pick The Right Content Management System (CMS)
+
+7) What do you care about the most when you write software?
+Ans. => Code should be readable and understandable
+     => Adaptability
+     => Making use of data structure & algorithms.
+     
